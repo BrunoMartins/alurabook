@@ -3,6 +3,8 @@
 <h2>🔖 Sobre</h2>
 <p>Projeto desenvolvido no curso de HTML e CSS da Alura.</p>
 
+[Acessar a página]( https://brunomartins.github.io/alurabook/)
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
